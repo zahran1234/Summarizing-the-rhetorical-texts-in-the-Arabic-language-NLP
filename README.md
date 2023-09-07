@@ -15,6 +15,7 @@ First, i want to detect if the sentence has an analogy if yes I need to detect E
 In these two rows, we have a lot of details to depict everything 
 First, we try to use  Large language models 
 I had a problem with data and performance after collecting the data the LLMS didn't get the best results for me
+
 ```
 
 
