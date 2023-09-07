@@ -20,7 +20,7 @@ First, we try to use  Large language models
 I had a problem with data and performance after collecting the data the LLMS didn't get the best results for me 
 
 ```
-## we have 2 problem 
+## we have 2 problems
 ### 1.1-How can i know if the sentence have analogy or not
 ```
 we devide the cases of analogy into there case
