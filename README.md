@@ -8,10 +8,6 @@
 
 ```
 ## analogy
-'''
-for example 
-ىبتتبتبتتبت
-'''
-ااا
-فاهس 
+![alt text](http://url/to/img.png)
+                                                  
 
