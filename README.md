@@ -1,13 +1,16 @@
 # Summarizing-the-rhetorical-texts-in-the-Arabic-language-NLP
-### anaphora , analogy ,Duplication take large text and get all sentences that have rhetorical tools do summarization according to rhetorical tools and implement snippet  to get summarization according to this topic 
-### hello guys In this notebook we will use NLP techniques to detect is whether the text has rhetorical tools and get these tools i have 3 rhetorical 
+## overview 
+```
+take large text and get all sentences that have rhetorical tools do summarization according to rhetorical tools and implement snippet  to get summarization according to this topic
+```
+### rhetorical tools
 ```
 1-analogy
 2-anaphora
 3-Repetition
 
 ```
-## analogy
+## 1-analogy
 ```
 for example the image of the analogy sample output
 link: https://github.com/zahran1234/Summarizing-the-rhetorical-texts-in-the-Arabic-language-NLP/blob/main/analogy%20sample%20example.jpeg
@@ -18,14 +21,14 @@ I had a problem with data and performance after collecting the data the LLMS did
 
 ```
 ## we have 2 problem 
-### 1-How can i know if the sentence have analogy or not
+### 1.1-How can i know if the sentence have analogy or not
 ```
 we devide the cases of analogy into there case
 check the notebook
 
 
 ```
-### 2-How can I get the the elements of analogy if exist
+### 1.2-How can I get the the elements of analogy if exist
 ```
 after searching we get that the elements of analogy should be a noun
 check the notebook to to the steps 
