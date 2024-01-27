@@ -1,4 +1,6 @@
-# Advanced Rhetorical Analysis Algorithm
+# Advanced Rhetorical Analysis Algorithm NLP   (Summarizing the rhetorical texts in the Arabic languageNLP)
+
+
 
 ## Overview
 
